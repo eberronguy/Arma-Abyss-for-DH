@@ -1,0 +1,15 @@
+# Darkest Hour events
+
+event = "db\events\generic_decisions.txt"
+event = "db\events\secret_weapon_events.txt"
+event = "db\events\Mobilization.txt"
+event = "db\events\Mobilization_events.txt"
+event = "db\events\Election_day.txt"
+
+# AI Events
+event = "db\events\AI\AI_sliders.txt"
+event = "db\events\AI\AI_mobi.txt"
+# event = "db\events\AI\AI_ministers.txt"
+# event = "db\events\AI\AI_minorshutinvasion.txt"
+# event = "db\events\AI\AI_revolters.txt"
+# event = "db\events\AI\AI_research.txt"
